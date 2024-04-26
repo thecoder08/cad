@@ -1,0 +1,2 @@
+# CAD
+A basic "CAD Drafting Program", if you want to call it that. You can draw paths by clicking with the mouse to make points. If you click on the first point, it closes the path and you can make another one.
